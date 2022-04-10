@@ -1,0 +1,14 @@
+.color{
+    color: tomato;
+
+}
+.verde{
+    color: rgb(0, 247, 255);
+}
+.celeste{
+    color: cadetblue;
+}
+h1{
+    background-color: aqua;
+    margin: 200px 100px;
+}

@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+
+    background-color: rgb(255, 0, 106);
+    padding: 10px;
+    border: 2px solid black;
+}
+.flex-container div{
+    background-color: bisque;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 75px;
+    border: 2px solid black;
+}

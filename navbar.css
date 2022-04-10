@@ -1,0 +1,17 @@
+.nave-enlace{
+    display: inline-block;
+
+    background-color: salmon;
+    color: blanchedalmond;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nave-enlace:hover{
+    background-color: antiquewhite;
+}
+nav{
+    background-color: blueviolet;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
